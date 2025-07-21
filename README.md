@@ -27,5 +27,5 @@ Ao clicar em um planeta, ele se expande e exibe o nome. Os demais retornam ao ta
 
 ## Você pode ver o projeto online aqui:  
 
-
+=> [Clique aqui !!](https://eduardotashiro.github.io/EXPLORE-PLANETS/)
 
