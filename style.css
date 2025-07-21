@@ -17,7 +17,7 @@ body{
     /*-- Faz com que o body ocupe 100% da altura da tela --*/
     overflow: hidden;
      /*-- Esconde qualquer conteúdo que ultrapasse a altura da tela --*/
-    background-image: url(/image/622.jpg);
+    background-image: url(image/622.jpg);
     background-size:cover;
     /*-- Faz a imagem de fundo ocupar toda a tela, sem distorcer --*/   
 }

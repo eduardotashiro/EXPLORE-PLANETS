@@ -10,14 +10,14 @@ Quem sabe um dia eu não acabo morando em um deles...
 - Design responsivo (funciona no celular)
 - Fontes personalizadas e visual moderno (diz a lenda)
 
-## 📁 Tecnologias usadas
+## Tecnologias usadas
 
 - HTML5
 - CSS3
 - JavaScript
 
 
-## 💡 Como funciona
+## Como funciona
 
 Ao clicar em um planeta, ele se expande e exibe o nome. Os demais retornam ao tamanho original. O projeto usa manipulação de classes no JavaScript para ativar o painel clicado.
 
